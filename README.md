@@ -99,7 +99,7 @@ Examined TCP streams to understand how unencrypted terminal sessions can expose 
 
 This demonstrated the risks associated with plaintext remote access protocols.
 
-![Telnet Plaintext Stream](screenshots/06_Wireshark_Telnet_plaintext_stre.png)
+![Telnet Plaintext Stream](screenshots/06_Wireshark_Telnet_plaintext_stream.png)
 
 ### 7. SSH Encrypted Traffic Analysis
 
